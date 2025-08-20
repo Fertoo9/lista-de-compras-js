@@ -1,0 +1,30 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+    background-color: bisque;
+    text-align: center;
+    padding: 10px;
+}
+
+body{
+    background-color: rgb(247, 237, 222);
+    text-align: center;
+}
+
+h2{
+    padding: 10px;
+}
+
+h3{
+    padding-bottom: 30px;
+}
+
+button{
+    font-size: 20px;
+    padding: 5px;
+}
